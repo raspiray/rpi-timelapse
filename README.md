@@ -23,15 +23,15 @@ https://www.google.com/search?q=raspi+install+ffmpeg
 
 Sorry, I have never installed it anywhere else so I can't be of more help.
 
-##Installing the RPi Timelapse software##
+### Installing the RPi Timelapse software ###
 
 Download the zip or clone using git into a folder on your pi.
 
-# CONFIGURATION #
+### CONFIGURATION ###
 
 All configuration options are stored in config/timelapse.conf file.  
 
-# USAGE #
+### USAGE ###
 python timelaspe.py
 
 ### License ###
