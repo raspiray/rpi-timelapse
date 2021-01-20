@@ -14,7 +14,7 @@ ffmpeg
 
 apt-get install python python-picamera python-gdata imagemagick
 
-### Installing ffmpeg on Raspberry Pi reunning Dietpi
+### Installing ffmpeg on Raspberry Pi running Dietpi
 On my Raspberry Pi timelapse cameras, I use the dietpi operating system.  DietPi is an extremely lightweight Debian OS, highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.  Installing ffmpeg on the dietpi is a menu option and hassle-free.  I would suggest you check out this fantastic operating system at https://dietpi.com
 
 ### Installing ffmpeg on Rasbian and others
