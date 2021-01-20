@@ -27,11 +27,11 @@ Sorry, I have never installed it anywhere else so I can't be of more help.
 
 Download the zip or clone using git into a folder on your pi.
 
-### CONFIGURATION ###
+### Configuration ###
 
 All configuration options are stored in config/timelapse.conf file.  
 
-### USAGE ###
+### Usage ###
 python timelaspe.py
 
 ### License ###
